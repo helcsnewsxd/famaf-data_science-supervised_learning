@@ -14,6 +14,7 @@ Este repositorio contiene el material de la materia Aprendizaje Supervisado de l
 | Clase | Filmina | Notebook |
 |-------|---------|----------|
 | 1 | [Repaso (Regresión Lineal, Polinomial y Logística + Perceptrón) + Support Vector Machines](./clases/filminas/clase1.pdf) | [Regresión Lineal](./clases/notebooks/demo_1_linear_regression.ipynb) + [Regresión Logística](./clases/notebooks/demo_2_logistic_regression.ipynb) + [Perceptrón](./clases/notebooks/demo_3_perceptron.ipynb) + [Support Vector Machines](./clases/notebooks/demo_4_svm.ipynb) |
+| 2 | [SVM (SVC/SVR) + Redes neuronales + Naive Bayes](./clases/filminas/clase2.pdf) | [SVM + Kernels](./clases/notebooks/demo_5_kernels.ipynb) + [Redes neuronales](./clases/notebooks/demo_6_neural_networks.ipynb) + [Naive Bayes](./clases/notebooks/demo_7_naive_bayes.ipynb) |
 
 ### Trabajos Prácticos
 

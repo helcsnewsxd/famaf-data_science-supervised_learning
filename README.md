@@ -22,4 +22,4 @@ Este repositorio contiene el material de la materia Aprendizaje Supervisado de l
 
 El trabajo práctico establecido en la materia de Aprendizaje Supervisado fue la realización de una competencia de predicción de diabetes en pacientes utilizando métodos de aprendizaje supervisado. La competencia se encuentra en [Kaggle](https://www.kaggle.com/competitions/supervisado-diplodatos2024/overview) y más información acerca de esta en el [repositorio](https://github.com/DiploDatos/AprendizajeSupervisado/tree/master/Pr%C3%A1ctico) de GitHub de la materia.
 
-El notebook utilizado para la competencia es [diabetes_prediction](./competencia/diabetes_prediction.ipynb).
+El notebook utilizado para la competencia es [diabetes_prediction](./competencia/diabetes_prediction.ipynb), mientras que el notebook para entregar (con las tablas precargadas) es [diabetes_prediction_to_submit](./competencia/diabetes_prediction_to_submit.ipynb).
